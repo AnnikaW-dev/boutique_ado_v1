@@ -222,7 +222,7 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 
 FREE_DELIVERY_THRESHOLD = 50
-STANDARD_DELIVERY_PRECENTAGE = 10
+STANDARD_DELIVERY_PERCENTAGE = 10
 
 
 # Default primary key field type
